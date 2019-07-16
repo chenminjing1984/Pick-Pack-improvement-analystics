@@ -15,7 +15,7 @@ What I did?
 
 •	Extracted useful columns and rows from large scales of datasets and cleaned data using Python Pandas library.
 
-•	Applied concat function to combine different datasets and group by products picked for each station.
+•	Applied concat function to combine different datasets, group products by station and analyzed the overall allocation.
 
 •	Developed location shuffle algorithm to find the optimal solution most quickly.
 
