@@ -17,7 +17,7 @@ What I did?
 
 •	Applied concat function to combine different datasets and group by products picked for each station.
 
-•	Randomly shuffled the products’ location for 100,000 times to find the optimal solution.
+•	Developed location shuffle algorithm to find the optimal solution most quickly.
 
 •	Developed a user friendly GUI to help internal non-technical users to operate the datasets.
 
